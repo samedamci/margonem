@@ -1,0 +1,487 @@
+/* v. 1.1 | (C) Samedamci 2019 */
+
+#panel {
+    background: url("img/panel.png");
+}
+
+#tradebg {
+    background: url("img/trade.png");
+}
+
+.MM-dialog {
+    border-image: url("img/mm-dialog.png") 51 64 24 57 fill repeat;
+}
+
+#frsort {
+    left: 5px; 
+    filter: sepia(100%);
+}
+
+#battlepanel SMALL, #battlemana, #battleenergy, #battletimer, #loots_bag, #loots_counter {
+    color: #ddd;
+}
+
+#loots TD {
+    border: none;
+}
+
+#volumeSlider .marker, #startbutton, #shufflebutton, #hdbutton {
+    background-image: url("img/music.png");
+}
+
+#recipes {
+    background: url("img/recipes.png");
+}
+
+#bottombar {
+    background: url("img/bottombar.png");
+}
+
+#botloc {
+    top: 521px;
+}
+
+#battletimer {
+    font-family: lato; 
+    font-size: 13px;
+}
+
+#battlemana {
+    left: 56px; 
+    top: 11px; 
+    font-size: 12px; 
+    font-family: lato;
+}
+
+#battleenergy {
+    left: 131px; 
+    top:11px; 
+    font-size: 12px; 
+    font-family: lato;
+}
+
+#premiumbut {
+    background: url("img/premiumbut.png");
+}
+
+#stats {
+    background: url("img/stats.png");
+}
+
+.golden-text {
+    font-size: 0px;
+}
+
+.MM-dialog-header-txt {
+    width: 0px; 
+    height: 0px;
+}
+
+.a2 {
+    text-align: center;
+    color: #000000 !important; 
+    margin-bottom: 18px;
+}
+
+#stats, .dmg  {
+    color: #ddd;
+}
+
+#base3 {
+    top: 52px; 
+    left: 669px; 
+    color: #ddd;
+}
+
+#chat.left {
+    background-image: url("img/chat-left.png"); 
+    height: 551px; 
+    margin: -7px 0 0 0;
+}
+
+#chat.left #chattabs S {
+    background-image: url("img/chat-left.png"); 
+    margin: 0 0 0 0; 
+}
+
+#chattxt .chnick {
+    color: NavajoWhite;
+}
+
+#chattxt .me {
+    color: #e7d798;
+}
+
+#chattxt .yourname b {
+    color: #dbff00; 
+    display: inline 
+}
+
+#chattxt .dice { 
+    color: #e7d798; 
+}
+
+#chattxt .clant, #chattxt div.clant span.chnick { 
+    color: Gold; 
+}
+
+#chattxt .entertown { 
+    border-bottom: 1px dotted dimGray; 
+    color: Khaki; 
+
+}
+
+#chattxt .priv, #chattxt div.priv span.chnick {
+    color: #32Cd32;
+}
+
+#exp1, #exp2 {
+    left: 529px; !important;
+}
+
+#life2 {
+    left: 529px;
+    background-image: url("img/life.png") !important;
+}
+
+#chatscrollbar, #talkscroll, #myenscrollbar, #myfrscrollbar, #battleskills_scroll, #recoverItemScroll, #h_help_scrolled_scroll {
+    border: 1px solid #b1b1b1; 
+    background-image: url("img/wood.jpg") !important;
+}
+
+#inmap,#pk_list,#inmap2wrapper {
+    color: #FFF;
+    background-image: url("img/green.jpg") !important;
+}
+
+#clanbox, #addons, #auctions, #inbox {
+    color: #000000;
+    background-image: url("img/cream.jpg") !important;
+}
+
+#gold {
+    color: #ddd; 
+    position: absolute; 
+    top: 80px; 
+    left: 522px; 
+    font: 10px Arial, Verdana; 
+    text-align: right; 
+    width: 112px; 
+    z-index: 301; 
+}
+
+#w2 {
+    background: url("img/w2.png");
+}
+
+.w1 {
+    padding-bottom: 9px;
+}
+
+#dlgwin {
+    background-image: url("img/dlgwin.png");
+}
+
+#staminashop {
+    background-image: url("img/dlgwin.png");
+}
+
+#alert {
+    background-image: url("img/dlgwin.png");
+}
+
+#alert .a1, #alert .a3, #alert button, #dlgwin .w1, #staminashop .a1, #staminashop .a3, #staminashop button {
+    background-image: url("img/alert-buts.png");
+}
+
+.closebut, #recipes .close-but, #inbox .del {
+    background: url("img/closebut.png");
+}
+
+.closebut {
+    margin-right: 8px; 
+    margin-top: 7px;
+}
+
+#pvpmode {
+    width: 23px; 
+    height: 17px; 
+    top: 520px; 
+    left: 1px; 
+    background-image: url("img/pvpmode.png") !important; 
+}
+
+#match-details-wnd .close-match-details-wrapper .close-match-details {
+    background-image: url("img/close-match.png");
+}
+
+#shop_close, #shop_accept, #shop_recover_items {
+    background-image: url("img/shop-buttons.png");
+}
+
+#shop_close, #shop_accept {
+    top: 358px; 
+}
+
+#shop.outfit {
+    background-image: url("img/shop-out.png");
+}
+
+#skillcount {
+    left: 10px;
+    top: 9px;
+    color: #b1b1b1;
+}
+
+.skills_tab_header {
+    background-image: url("img/skills-header.png");
+    background-repeat: no-repeat;
+    height: 28px;
+}
+
+#chat, #chattabs s {
+    background-image: url("img/chat.png");
+}
+
+#shop_desc {
+    top: 352px; 
+    left: 15px; 
+    color: black;
+}
+
+#match-details-wnd #match-details-txt {
+    text-align: center; 
+    color: black;
+}
+
+#shop_bilans {
+    color: black;
+}
+
+#mails {
+    background-image: url("img/mails.png");
+}
+
+#loots {
+    border-image: url("img/loots.png") 41 32 17 49 fill round;
+}
+
+#loots_l, #loots_r, #loots .loot, #loots B.yes, #loots B.no, #loots_counter, #loots_button, #loots B.need {
+    background-image: url("img/loots2.png");
+    background-color: transparent;
+}
+
+#shop{
+    background: url("img/shop.png");
+}
+
+#depo, #depo-title {
+    background-image: url("img/depo.png");
+}
+
+#dialog .borders {
+    background: url("img/dialogborders.png") 0px -128px;
+}
+#nick {
+    text-align: center;
+    width: 274px;
+    font: bold 14px lato;
+    color: #d8d3b1;
+}
+
+#trade BUTTON, DIV.frparty, .chatfr, BUTTON#depo-goldin, BUTTON#depo-goldout, #depo-gold INPUT, BUTTON#depo-toggle, #inbox BUTTON, #ahselect B#b_myah, #auctions #ah_filter BUTTON, #auctions BUTTON, #auctions .redback, #ah_mylist H5 {
+    filter: sepia(100%);
+}
+
+.MM-button-bar {
+    filter: sepia(80%);
+}
+
+#ahtitle {
+    background: url("img/auction.png") no-repeat -115px 0;
+}
+
+#ahselect {
+    background: url("img/auction.png") no-repeat -115px -32px;
+}
+
+#ah_filter {
+    background: #400 url("img/auction.png") no-repeat -238px -72px;
+}
+
+#auctions .ahitem {
+    background: #040 url("img/chat-left.png") no-repeat center center;
+}
+
+#friends {
+    background: url("img/friends.jpg");
+}
+
+.delfr, .delen {
+    background: #5000 url("img/fr-buttons.png") no-repeat -157px 0;
+}
+
+#enadd {
+    background: #5000 url("img/fr-buttons.png") no-repeat -135px 0;
+}
+
+.MM-statistics-info {
+    top: 210px; 
+    right: -40px;
+}
+
+#mappanel {
+    background-image: url("img/mappanel.png");
+}
+
+#addonspanel {
+    background-image: url("img/addonspanel.png");
+}
+
+#clanmenu {
+    background-image: url("img/clanmenu.png");
+}
+
+#buttons DIV, #b_pvp, #logoutbut, #bchat {
+    background-image: url("img/buttons.png") !important;
+}
+
+#new_event_calendar {
+    background-image: url("img/advent-calendar.png");
+}
+
+#skillSwitch {
+    background-image: url("img/skillswitch.gif") !important;
+}
+
+.MM-battleset-switch-button {
+    background-image: url("img/battlesets.png");
+}
+
+#inpchat {
+    background-image: url("img/bottombar.png");
+}
+
+#dialog {
+    background-image: url("img/dialog.jpg");
+}
+
+#skills_title, #skills, #rooms_title, #rooms {
+    background-image: url("img/skills.png");
+}
+
+#chattxt>div:nth-child(odd) {
+    background-color: rgba(255,255,255,.0.1);
+}
+
+#chattxt>div {
+    padding: 3px 2px;
+    border-bottom: 1px dotted #050;
+}
+
+#config .save, #config .cancel {
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+
+BUTTON.bal_ok, BUTTON.bal_cancel, BUTTON.bal_yes, BUTTON.bal_no, BUTTON.bal_pay {
+    margin-left: 10px;
+    margin-top: -10px;
+}
+
+.stamina_pay_options .st_pay_wrapper button {
+    float: right;
+    margin-top: 10px;
+}
+
+BUTTON.bal_pay.active {
+    background-position: -292px -37px;
+}
+
+#match-details-wnd .close-match-details-wrapper .close-match-details {
+    margin-bottom: 25px;
+}
+
+#config .save {
+    background-image: url("img/config-save.png");
+}
+
+#config .cancel {
+    background-image: url("img/config-cancel.png");
+}
+
+
+#cfg_options DIV {
+    background-image: url("img/cfg-options.png");
+}
+
+.conf-title, #match-details-wnd .match-details-title {
+    background-image: url("img/conf-title.png") !important;
+} 
+
+#cfg_options DIV {
+    font: 12px Georgia, serif;
+    color: #000000;
+}
+
+#h-orn1,#h-orn2 {
+    display: none;
+}
+
+#hmenu button {
+    font-family: lato; 
+    font-size: 11px; 
+    background: url("img/hmenubut.png"); 
+    border-bottom: 1px solid #aaa; 
+    color: rgba(204, 204, 119, 1);
+}
+
+#hmenu {
+    border: 3px double black;
+}
+
+#hmenu button:hover {
+    background: black;
+}
+
+#battlepanelback, #battlehelp, #battleclose, #battlepanel.big, #battlehelp:hover, .border-b {
+    background-image: url("img/battle.png");
+}
+
+#skillSwitch.first {
+    background-position: 0px -32px;
+}
+
+#skillSwitch.second {
+    background-position: 0px 0px;
+}
+
+#skillSwitch.third {
+    background-position: 0px -64px;
+}
+
+DIV#b_news {
+    background-position: -268px 0;
+    left: 93px;
+    top: 512px;
+}
+
+#skillInBattleCount {
+    left: 67px;
+    top: 9px;
+    color: gold;
+}
+
+DIV#b_news, DIV#b_news.notif {
+    background-image: url("img/newsNotif.gif");
+}
+
+.scroll400 {
+    height: 386px;
+    overflow: auto;
+}
+
+#dlgwin .w1 {
+    height: 440px !important;
+}

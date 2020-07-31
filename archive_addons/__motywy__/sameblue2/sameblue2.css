@@ -1,0 +1,228 @@
+#panel {
+	background: url("https://i.imgur.com/TYPRaUO.png");	
+}
+
+#stats {
+	background: url("https://i.imgur.com/wY2jEo4.png");
+}
+
+#startbutton, #shufflebutton, #hdbutton {
+	background-Image: url("https://i.imgur.com/f0msYnM.png");
+}
+
+.MM-battleset-switch-button {
+    display: inline-block;
+    width: 36px;
+    height: 13px;
+    background: url(https://i.imgur.com/Hw5hFBo.png);
+    margin-right: 3px;
+    cursor: pointer;
+}
+
+#skillSwitch.first {
+    background: url("https://i.imgur.com/xZlGmBm.gif") 0px -32px;
+}
+
+#skillSwitch.second {
+    background: url("https://i.imgur.com/xZlGmBm.gif") 0px 0px;
+}
+
+#skillSwitch.third {
+    background: url("https://i.imgur.com/xZlGmBm.gif") 0px -64px;
+}
+
+#life2 {
+	left: 530px;
+	background-image: url("https://i.imgur.com/9CIs7SF.png") !important;
+}
+
+#exp1, #exp2 {
+	left: 530px; !important;
+}
+
+#gold { 
+	position: absolute; 
+	top: 80px; 
+	left: 523px; 
+	font: 10px; 
+	color: #e3e3e3; 
+	text-align: right; 
+	width: 112px; 
+	z-index: 301; 
+}
+
+#buttons DIV, DIV#b_help, DIV#b_addons, #logoutbut, #bchat {
+    background-image: url("https://i.imgur.com/0HdqEIc.png");
+}
+
+#battlepanelback, #battlehelp, #battleclose,  #battlehelp:hover {
+	background-image: url("https://i.imgur.com/TuSWxnW.png");
+}
+
+#battle .border-b {
+    position: absolute;
+    bottom: 0px;
+    width: 339px;
+    height: 4px;
+    background: url(https://i.imgur.com/TuSWxnW.png) 0px 4px
+}
+
+#loots {
+	background: url("https://i.imgur.com/1Guwg8O.png");
+}
+
+#loots_l, #loots_r, #loots .loot, #loots B.yes, #loots B.no, #loots_counter, #loots_button, #loots B.need {
+	background-image: url("https://i.imgur.com/6Z2UUjJ.png");
+	background-color: transparent;
+}
+
+#bottombar {
+	background: url("https://i.imgur.com/ZmbkPD1.png");
+}
+
+#inpchat {
+    background-image: url("https://i.imgur.com/ZmbkPD1.png");
+    margin-top: -2px;
+}
+
+#chat {
+    background-image: url(http://i.imgur.com/IwVHHeo.png);
+}
+
+#chattabs S {
+    background-image: url("http://i.imgur.com/IwVHHeo.png");
+}
+
+#chat.left {
+    width: 276px;
+    bottom: auto;
+    height: 537px;
+    background-color: #0d6f00;
+    background-image: url("https://i.imgur.com/ZF9wAc3.png");
+    background-position: 0px -72px;
+}
+
+#chat.left #chattabs {
+    position: static;
+    height: 18px;
+    width: 264px;
+    margin: 5px 0px 0px 5px;
+}
+
+#chat.left #chattabs S {
+	background-image: url("https://i.imgur.com/hbxd9uX.png");
+}
+
+#addonspanel {
+	background: url("https://i.imgur.com/8GeG9gN.jpg");
+}
+
+#mappanel {
+	background: url("https://i.imgur.com/Uw0Ktiz.jpg");
+}
+
+#clanmenu {
+	background: url("https://i.imgur.com/cYrR9Ky.png");
+}
+
+#depo {
+	background-Image: url("https://i.imgur.com/JMaCkTx.png");
+}
+
+BUTTON#depo-goldout, BUTTON#depo-goldin, BUTTON#depo-toggle, #depo-gold INPUT {
+	background-Image: url("https://i.imgur.com/MS4JyC9.png");
+}
+
+#ahselect {
+	background-Image: url("https://i.imgur.com/tgdJK20.png")
+}
+
+#premiumshop, #premiumshop .promocode_button, #premiumshop .item_bg, #premiumshop .premiumItem, #premiumshop .buymore_ps, #premiumshop .closebutton_ps {
+	background-Image: url("https://i.imgur.com/VJuVcZN.png");
+}
+
+#premiumbut {
+	background-Image: url("https://i.imgur.com/lAcKGUS.png");
+}
+
+#shop {
+	background-Image: url("https://i.imgur.com/zt7Cb6A.png");
+}
+
+#shop.outfit {
+	background-Image: url("https://i.imgur.com/TRdiFdY.png");
+}
+
+#shop_accept {
+    position: absolute;
+    left: 372px;
+    top: 374px;
+    width: 91px;
+    height: 33px;
+    background: url("https://i.imgur.com/UucuvzH.png") 0 0;
+}
+
+#shop_close {
+    position: absolute;
+    left: 278px;
+    top: 374px;
+    width: 91px;
+    height: 33px;
+    background: url("https://i.imgur.com/UucuvzH.png") -91px 0;
+}
+
+#gold_shop_banner {
+    background: url("https://i.imgur.com/IKywX6i.png") 0px -54px;
+    width: 278px;
+    height: 39px;
+    display: none;
+    cursor: pointer;
+    position: absolute;
+    bottom: -22px;
+}
+
+#sl_shop_banner {
+    background: url("https://i.imgur.com/IKywX6i.png");
+    width: 212px;
+    height: 54px;
+    left: 30px;
+    top: 374px;
+    cursor: pointer;
+    display: none;
+    position: absolute;
+}
+
+#config .cancel {
+    width: 68px;
+    height: 20px;
+    background: url("https://i.imgur.com/j0wToXf.png");
+}
+
+#config .save {
+    width: 68px;
+    height: 20px;
+    background: url("https://i.imgur.com/zQxf03Z.png");
+}
+
+#cfg_options DIV {
+    height: 18px;
+    background: url("https://i.imgur.com/NNTv0ez.png") no-repeat top left;
+    padding: 4px 30px 0;
+    font: 12px Georgia, serif;
+    margin-bottom: 2px;
+    cursor: pointer;
+}
+
+#pvpmode {
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	left: 10px;
+	top: 519px;
+	z-index: 301;
+	background-image: url("https://i.imgur.com/74aap0A.png")!important; 
+}
+
+#bm_advent {
+	background-Image: url("https://i.imgur.com/ZJveFd3.png");
+}
